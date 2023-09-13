@@ -30,3 +30,5 @@ setup(
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
+
+com.databricks:spark-xml_2.12:0.17.0
